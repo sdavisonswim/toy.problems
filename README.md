@@ -1,4 +1,4 @@
 # toy.problems
-Toy problems solutions in JavaScript.
+Toy problem solutions in JavaScript.
 
 [mergeSort](./mergeSort/mergeSort.js)
