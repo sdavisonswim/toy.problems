@@ -5,3 +5,4 @@ Toy problem solutions in JavaScript.
 * [binarySearchArray](./binarySearchArray/binarySearchArray.js)
 * [commonAncestor](./commonAncestor/commonAncestor.js)
 * [deepEquality](./deepEquality/deepEquality.js)
+* [queueStack](./queueStack/queueStack.js)
