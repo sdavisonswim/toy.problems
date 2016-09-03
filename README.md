@@ -6,3 +6,5 @@ Toy problem solutions in JavaScript.
 * [commonAncestor](./commonAncestor/commonAncestor.js)
 * [deepEquality](./deepEquality/deepEquality.js)
 * [queueStack](./queueStack/queueStack.js)
+* [coinSums](./coinSums/coinSums.js)
+
