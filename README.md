@@ -7,4 +7,5 @@ Toy problem solutions in JavaScript.
 * [deepEquality](./deepEquality/deepEquality.js)
 * [queueStack](./queueStack/queueStack.js)
 * [coinSums](./coinSums/coinSums.js)
+* [integerReverse](./integerReverse/integerReverse.js)
 
