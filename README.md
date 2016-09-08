@@ -8,4 +8,5 @@ Toy problem solutions in JavaScript.
 * [queueStack](./queueStack/queueStack.js)
 * [coinSums](./coinSums/coinSums.js)
 * [integerReverse](./integerReverse/integerReverse.js)
+* [balancedBracket](./balancedBracket/balancedBracket.js)
 
