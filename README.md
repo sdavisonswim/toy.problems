@@ -9,4 +9,5 @@ Toy problem solutions in JavaScript.
 * [coinSums](./coinSums/coinSums.js)
 * [integerReverse](./integerReverse/integerReverse.js)
 * [balancedBracket](./balancedBracket/balancedBracket.js)
+* [rangeClass](./rangeClass/rangeClass.js)
 
