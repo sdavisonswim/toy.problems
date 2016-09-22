@@ -10,4 +10,5 @@ Toy problem solutions in JavaScript.
 * [integerReverse](./integerReverse/integerReverse.js)
 * [balancedBracket](./balancedBracket/balancedBracket.js)
 * [rangeClass](./rangeClass/rangeClass.js)
+* [postfixNotationCalculator](./postfixNotationCalculator/postfixNotationCalculator.js)
 
