@@ -11,4 +11,5 @@ Toy problem solutions in JavaScript.
 * [balancedBracket](./balancedBracket/balancedBracket.js)
 * [rangeClass](./rangeClass/rangeClass.js)
 * [postfixNotationCalculator](./postfixNotationCalculator/postfixNotationCalculator.js)
+* [evenOccurence](./evenOccurence/evenOccurence.js)
 
