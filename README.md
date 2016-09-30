@@ -13,3 +13,4 @@ Toy problem solutions in JavaScript.
 * [postfixNotationCalculator](./postfixNotationCalculator/postfixNotationCalculator.js)
 * [evenOccurence](./evenOccurence/evenOccurence.js)
 * [nonRepeatedCharacter](./nonRepeatedCharacter/nonRepeatedCharacter.js)
+* [longestPalindrome](./longestPalindrome/longestPalindrome.js)
