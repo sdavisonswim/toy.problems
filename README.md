@@ -14,3 +14,4 @@ Toy problem solutions in JavaScript.
 * [evenOccurence](./evenOccurence/evenOccurence.js)
 * [nonRepeatedCharacter](./nonRepeatedCharacter/nonRepeatedCharacter.js)
 * [longestPalindrome](./longestPalindrome/longestPalindrome.js)
+* [primeTester](./primeTester/primeTester.js)
