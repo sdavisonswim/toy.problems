@@ -15,3 +15,4 @@ Toy problem solutions in JavaScript.
 * [nonRepeatedCharacter](./nonRepeatedCharacter/nonRepeatedCharacter.js)
 * [longestPalindrome](./longestPalindrome/longestPalindrome.js)
 * [primeTester](./primeTester/primeTester.js)
+* [countLeaves](./countLeaves/countLeaves.js)
