@@ -16,3 +16,4 @@ Toy problem solutions in JavaScript.
 * [longestPalindrome](./longestPalindrome/longestPalindrome.js)
 * [primeTester](./primeTester/primeTester.js)
 * [countLeaves](./countLeaves/countLeaves.js)
+* [treeBreadthFirstSelect](./treeBreadthFirstSelect/treeBreadthFirstSelect.js)
