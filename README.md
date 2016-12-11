@@ -17,3 +17,4 @@ Toy problem solutions in JavaScript.
 * [primeTester](./primeTester/primeTester.js)
 * [countLeaves](./countLeaves/countLeaves.js)
 * [treeBreadthFirstSelect](./treeBreadthFirstSelect/treeBreadthFirstSelect.js)
+* [isBalanced](./isBalanced/isBalanced.js)
