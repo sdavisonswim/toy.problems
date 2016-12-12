@@ -19,3 +19,4 @@ Toy problem solutions in JavaScript.
 * [treeBreadthFirstSelect](./treeBreadthFirstSelect/treeBreadthFirstSelect.js)
 * [isBalanced](./isBalanced/isBalanced.js)
 * [climbStairs](./climbStairs/climbStairs.js)
+* [characterSum](./characterSum/characterSum.js)
