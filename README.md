@@ -20,3 +20,4 @@ Toy problem solutions in JavaScript.
 * [isBalanced](./isBalanced/isBalanced.js)
 * [climbStairs](./climbStairs/climbStairs.js)
 * [characterSum](./characterSum/characterSum.js)
+* [cheeseStickConsumption](./cheeseStickConsumption/cheeseStickConsumption.js)
