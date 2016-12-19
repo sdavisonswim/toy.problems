@@ -21,3 +21,4 @@ Toy problem solutions in JavaScript.
 * [climbStairs](./climbStairs/climbStairs.js)
 * [characterSum](./characterSum/characterSum.js)
 * [cheeseStickConsumption](./cheeseStickConsumption/cheeseStickConsumption.js)
+* [flatten](./flatten/flatten.js)
