@@ -22,3 +22,4 @@ Toy problem solutions in JavaScript.
 * [characterSum](./characterSum/characterSum.js)
 * [cheeseStickConsumption](./cheeseStickConsumption/cheeseStickConsumption.js)
 * [flatten](./flatten/flatten.js)
+* [highestFrequency](./highestFrequency/highestFrequency.js)
