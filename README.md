@@ -23,3 +23,4 @@ Toy problem solutions in JavaScript.
 * [cheeseStickConsumption](./cheeseStickConsumption/cheeseStickConsumption.js)
 * [flatten](./flatten/flatten.js)
 * [highestFrequency](./highestFrequency/highestFrequency.js)
+* [largestProductOfThree](./largestProductOfThree/largestProductOfThree.js)
