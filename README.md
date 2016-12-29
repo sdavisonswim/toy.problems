@@ -24,3 +24,4 @@ Toy problem solutions in JavaScript.
 * [flatten](./flatten/flatten.js)
 * [highestFrequency](./highestFrequency/highestFrequency.js)
 * [largestProductOfThree](./largestProductOfThree/largestProductOfThree.js)
+* [rockPaperPermutation](./rockPaperPermutation/rockPaperPermutation.js)
