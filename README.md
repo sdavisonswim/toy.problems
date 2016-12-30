@@ -25,3 +25,4 @@ Toy problem solutions in JavaScript.
 * [highestFrequency](./highestFrequency/highestFrequency.js)
 * [largestProductOfThree](./largestProductOfThree/largestProductOfThree.js)
 * [rockPaperPermutation](./rockPaperPermutation/rockPaperPermutation.js)
+* [nthFibonacci](./nthFibonacci/nthFibonacci.js)
